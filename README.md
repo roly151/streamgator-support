@@ -2,6 +2,8 @@
 
 Public support and issue tracking for StreamGator on Android, Android TV and macOS. This repository contains support information and issue templates; the app source code is maintained separately in a private repository.
 
+[App information](https://streamgator-auth-broker.vercel.app) · [Privacy policy](https://streamgator-auth-broker.vercel.app/privacy) · [Support](https://streamgator-auth-broker.vercel.app/support)
+
 ## Report a problem
 
 [Open a bug report](https://github.com/roly151/streamgator-support/issues/new?template=bug_report.md). Include the app version and build number (shown at the bottom of the main menu or in Settings → About), device, operating system, steps to reproduce, and what you expected to happen.
