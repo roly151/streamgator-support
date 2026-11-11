@@ -1,6 +1,6 @@
 # StreamGator support
 
-Public support and issue tracking for StreamGator on Android, Android TV and macOS. This repository contains support information and issue templates; the app source code is maintained separately in a private repository.
+StreamGator brings supported streaming services, discovery and personal watchlists into one easy-to-use app for Android, Android TV and macOS. This is its public support tracker. This repository contains support information and issue templates; the app source code is maintained separately in a private repository.
 
 [App information](https://streamgator-auth-broker.vercel.app) · [Privacy policy](https://streamgator-auth-broker.vercel.app/privacy) · [Support](https://streamgator-auth-broker.vercel.app/support)
 
@@ -18,6 +18,6 @@ For a privacy request, [open a minimal contact request](https://github.com/roly1
 
 ## About the app
 
-StreamGator provides discovery, metadata, optional account tracking and playback coordination. No media or provider packages are bundled. Users must have permission to access their chosen sources and third-party services.
+StreamGator helps users find where to watch, organise their viewing and connect optional tracking services. On Android it can open supported installed streaming apps. User-installed third-party add-ons and provider packages can extend in-app playback. StreamGator supplies the interface and player; no media or provider packages are bundled. Users choose their own services and need permission to access them.
 
 StreamGator uses Trakt but is not endorsed or certified by Trakt.
