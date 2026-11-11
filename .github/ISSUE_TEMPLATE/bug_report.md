@@ -1,23 +1,25 @@
 ---
-name: Bug report
-about: Report a problem with StreamGator
+name: Report a problem
+about: Get help with a StreamGator problem
 labels: bug
 ---
 
-<!-- This issue is PUBLIC. Remove API keys, tokens, passwords, login codes, private provider URLs and personal information from all text, logs and screenshots. -->
+<!-- This post is PUBLIC. Do not include passwords, API keys, sign-in codes, private add-on addresses or viewing history. Remove private information from screenshots and logs. -->
 
-**App version and build**
-From the main menu footer or Settings → About:
+**App version**
+Shown in Settings → About:
 
 **Device and operating system**
 
-**Steps to reproduce**
+**What were you trying to do?**
+
+**Steps that led to the problem**
 1.
 2.
 3.
 
-**Expected result**
+**What did you expect to happen?**
 
-**Actual result**
+**What happened instead?**
 
-**Redacted screenshot or relevant error (optional)**
+**Screenshot or error message (optional — remove private information first)**

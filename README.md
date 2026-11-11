@@ -1,23 +1,27 @@
 # StreamGator support
 
-StreamGator brings supported streaming services, discovery and personal watchlists into one easy-to-use app for Android, Android TV and macOS. This is its public support tracker. This repository contains support information and issue templates; the app source code is maintained separately in a private repository.
+StreamGator brings supported streaming services, discovery and personal watchlists into one easy-to-use app.
 
-[App information](https://streamgator-auth-broker.vercel.app) · [Privacy policy](https://streamgator-auth-broker.vercel.app/privacy) · [Support](https://streamgator-auth-broker.vercel.app/support)
+**Coming soon for Android, Android TV and macOS.** Trakt connection: Coming soon.
 
-## Report a problem
+[Website](https://streamgator-auth-broker.vercel.app) · [Privacy policy](https://streamgator-auth-broker.vercel.app/privacy) · [Help and support](https://streamgator-auth-broker.vercel.app/support)
 
-[Open a bug report](https://github.com/roly151/streamgator-support/issues/new?template=bug_report.md). Include the app version and build number (shown at the bottom of the main menu or in Settings → About), device, operating system, steps to reproduce, and what you expected to happen.
+## Get help
 
-StreamGator is currently in private beta. Public Trakt sign-in is being prepared for Trakt Production review. The app is free; optional third-party services have their own accounts, limits and charges.
+- [Report a problem](https://github.com/roly151/streamgator-support/issues/new?template=bug_report.md)
+- [Suggest a feature](https://github.com/roly151/streamgator-support/issues/new?template=feature_request.md)
+- [Browse support](https://github.com/roly151/streamgator-support/issues)
+
+For a problem, include your device, operating system, the app version shown in Settings → About, and the steps that led to it. Explain what you expected and what happened instead.
 
 ## Protect your information
 
-**Every issue and attachment here is public.** Never include API keys, access or refresh tokens, passwords, device login codes, full configuration exports, private provider URLs, account details or unredacted logs and screenshots.
+**All posts and attachments here are public.** Do not share passwords, API keys, sign-in codes, private add-on addresses or personal viewing history. Remove private information from screenshots and logs before sharing them.
 
-For a privacy request, [open a minimal contact request](https://github.com/roly151/streamgator-support/issues/new?template=privacy.md) without personal details and ask the maintainer to arrange a private contact method. For security problems, use GitHub’s private vulnerability reporting if it is available; otherwise open a minimal request for private contact without vulnerability details or credentials.
+For a privacy question, [request a private contact method](https://github.com/roly151/streamgator-support/issues/new?template=privacy.md) first. Keep that initial public request brief and leave out personal details. For a security concern, ask for private contact without posting details of the problem.
 
-## About the app
+## Third-party add-ons
 
-StreamGator helps users find where to watch, organise their viewing and connect optional tracking services. On Android it can open supported installed streaming apps. User-installed third-party add-ons and provider packages can extend in-app playback. StreamGator supplies the interface and player; no media or provider packages are bundled. Users choose their own services and need permission to access them.
+Optional third-party add-ons and provider packages let you add playback sources. StreamGator provides the interface and player; your chosen services and extensions supply the content. No films, episodes or provider packages are included. Each service has its own subscriptions, availability and access terms.
 
 StreamGator uses Trakt but is not endorsed or certified by Trakt.
